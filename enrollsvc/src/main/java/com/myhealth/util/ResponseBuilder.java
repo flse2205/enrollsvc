@@ -1,5 +1,12 @@
+/**
+ * 
+ */
 package com.myhealth.util;
 
+/**
+ * @author hshaik
+ *
+ */
 public class ResponseBuilder<T> {
 	
 	public String buildResponseString(T t) {		
